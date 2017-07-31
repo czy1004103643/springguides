@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.unboundid:unboundid-ldapsdk:3.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.unboundid/unboundid-ldapsdk/3.2.1/464832146acdfb4730ae28ccea61f8db550d77e0/unboundid-ldapsdk-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.unboundid/unboundid-ldapsdk/3.2.1/8d5e2980a4d3e81937dd2adc2079c1499ca97cb5/unboundid-ldapsdk-3.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
